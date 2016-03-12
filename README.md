@@ -1,5 +1,6 @@
-Muhha! Standardized Core Shading Language
-The Muhha! Virtual GPU Chipset Series
+##Muhha! Standardized Core Shading Language
+
+######The Muhha! Virtual GPU Chipset Series
 The Muhha! Virtual GPU series is built upon VHDL principles and is compared to OpenGL Shading Language. It consists of a C# and Javascript based language which compiles the six supervisor level virtual appliances. 
 
 #####Muhha! Shader Bytecode Language Specification
@@ -26,7 +27,7 @@ Debug projects and maintain project management using ASIC specific virtual  supe
 Edit with customizable calltips and syntax suggestion that automate codesmith tasks.
 Print in UML, XML, CAD, 3D/obj and other extensions.
 
-The ''[[Labcoat-Cleanroom]]'' is a component of Labcoat which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
+The ''Labcoat-Cleanroom'' is a component of Labcoat which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
 
 #####Substrate Presets- The components used to outline wafers
 #####Techtree Presets- The indexing components of the chipset. Outlines circuit paths
