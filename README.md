@@ -29,3 +29,19 @@ The ''[[Labcoat-Cleanroom]]'' is a component of Labcoat which maintains what are
 #####Lexicon Presets- The onboard logarithm database
 #####Entity Presets- The developer profile manager
 #####Schematic Presets- The mapping and data flow debugger
+
+Muhha! Shader Bytecode Language Specification
+Shader based byte level instruction language rulesets
+
+Muhha! Shader Reference Appliance Specification
+Nested algebraic GPU output data rulesets
+Muhha! Shader Architecture Appliance Specification
+Super entity template generator and GPU refactoring rulesets
+Muhha! Shader Native Core Appliance Specification
+Base virtual GPU chip operating ruleset
+Muhha! Shader Developer Appliance Specification
+Semicom developer certification ruleset
+Muhha! Shader Optimization Appliance Specification
+New shader component evalution and diagnostics for shader set, extension, license, plugin, appliance, template and  system import/export rulesets
+Muhha! Shader Network Appliance Specification
+Shader enterprise distribution rulesets
