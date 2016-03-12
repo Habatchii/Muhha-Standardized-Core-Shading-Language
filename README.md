@@ -29,11 +29,18 @@ Print in UML, XML, CAD, 3D/obj and other extensions.
 
 The ''Labcoat-Cleanroom'' is a component of Labcoat which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
 
-#####Substrate Presets- The components used to outline wafers
-#####Techtree Presets- The indexing components of the chipset. Outlines circuit paths
-#####Architecture Presets- The chipset model cache form factor
-#####Processor Presets- The command center of the chipset
-#####Lexicon Presets- The onboard logarithm database
-#####Entity Presets- The developer profile manager
-#####Schematic Presets- The mapping and data flow debugger
+#####Substrate Presets- 
+The components used to outline wafers
+#####Techtree Presets- 
+The indexing components of the chipset. Outlines circuit paths
+#####Architecture Presets- 
+The chipset model cache form factor
+#####Processor Presets- 
+The command center of the chipset
+#####Lexicon Presets- 
+The onboard logarithm database
+#####Entity Presets- 
+The developer profile manager
+#####Schematic Presets- 
+The mapping and data flow debugger
 
