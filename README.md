@@ -27,7 +27,7 @@ Debug projects and maintain project management using ASIC specific virtual  supe
 Edit with customizable calltips and syntax suggestion that automate codesmith tasks.
 Print in UML, XML, CAD, 3D/obj and other extensions.
 
-The ''Labcoat-Cleanroom'' is a component of Labcoat which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
+The ''Labcoat-Cleanroom'' is a component of Labcoat for Muhha! which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
 
 #####Substrate Presets- 
 The components used to outline wafers
