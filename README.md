@@ -14,8 +14,9 @@ Base virtual GPU chip operating ruleset
 #####Muhha! Shader Developer Appliance Specification
 Semicom developer certification ruleset
 #####Muhha! Shader Optimization Appliance Specification
-New shader component evalution and diagnostics for shader set, extension, license, plugin, appliance, template and  system import/export rulesets
+New shader component evalution and diagnostics for shader set, extension, license, plugin, appliance, template and  system based rulesets
 #####Muhha! Shader Network Appliance Specification
+Special networking protocol for GPU based transfer and exhibit.
 
 ###Description of Features:
 Complete compliant graphic testing and package new graphic SoC projects for deployment. Render waveform diagnostics with real-time editing.
