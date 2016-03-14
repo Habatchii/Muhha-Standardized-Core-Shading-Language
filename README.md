@@ -21,12 +21,12 @@ Special networking protocol for GPU based transfer and exhibit.
 ###Description of Features:
 Complete compliant graphic testing and package new graphic SoC projects for deployment. Render waveform diagnostics with real-time editing.
 
-Import/Export GPU libraries to add extensibility and advanced graphic output.
-Install extensions into the appliances and create re-distributable virtual components.
-Generate graphic instruction sets to execute simple and advanced processing routines for multi-platform graphics.
-Debug projects and maintain project management using ASIC specific virtual  supervisors. 
-Edit with customizable calltips and syntax suggestion that automate codesmith tasks.
-Print in UML, XML, CAD, 3D/obj and other extensions.
+ Import/Export GPU libraries to add extensibility and advanced graphic output.
+ Install extensions into the appliances and create re-distributable virtual components.
+ Generate graphic instruction sets to execute simple and advanced processing routines for multi-platform graphics.
+ Debug projects and maintain project management using ASIC specific virtual  supervisors. 
+ Edit with customizable calltips and syntax suggestion that automate codesmith tasks.
+ Print in UML, XML, CAD, 3D/obj and other extensions.
 
 The ''Labcoat-Cleanroom'' is a component of Labcoat for Muhha! which maintains what are known 'presets', function-based content which enhance or define chipset performance. Below is a list of supported presets:
 
