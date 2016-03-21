@@ -3,7 +3,9 @@
 ######The Muhha! Virtual GPU Chipset Series
 The Muhha! Virtual GPU series is built upon VHDL principles and is compared to OpenGL Shading Language. It consists of a C# and Javascript based language which compiles the six supervisor level virtual appliances. 
 
-Based upon a simple chipset layout, the operating system of the language's codebase uses the 'slot' principle. There are seven default pins which are fitted to the host virtual machine's slots and from which up to 50 total virtual slots may be created. During code execution, codesmiths may select one of two modes, 1) Bottleneck or 2) Resort. Mode one waits until available slots are open, mode 2 locates a compatible open slot to complete the path. Mode 2 typically consumes more resources while mode 1 may take longer. The virtual appliances listed below each host one of the default slots, of which may be upgraded with up to seven additional supporting pins.
+Based upon a simple chipset layout, the operating system of the language's codebase uses the 'slot' principle. There are seven default pins which are fitted to the host virtual machine's slots and from which up to 50 total virtual slots may be created. During code execution, codesmiths may select one of two modes, 1) Bottleneck or 2) Resort. Mode one waits until available slots are open, mode 2 locates a compatible open slot to complete the path. Mode 2 typically consumes more resources while mode 1 may take longer. 
+
+The virtual appliances listed below each host one of the default slots, of which may be upgraded with up to seven additional supporting pins.
 
 #####Muhha! Shader Bytecode Language Specification
 Shader based byte level instruction language rulesets
