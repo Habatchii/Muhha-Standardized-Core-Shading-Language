@@ -7,9 +7,9 @@ Based upon a simple chipset layout, the operating system of the language's codeb
 
 The virtual appliances listed below each host one of the default slots, of which may be upgraded with up to seven additional supporting pins.
 
- #####+Muhha! Shader Bytecode Language Specification
+##### +Muhha! Shader Bytecode Language Specification
 Shader based byte level instruction language rulesets
- #####+Muhha! Shader Reference Appliance Specification
+#####+Muhha! Shader Reference Appliance Specification
 Nested algebraic GPU output data rulesets
 #####+Muhha! Shader Architecture Appliance Specification
 Super entity template generator and GPU refactoring rulesets
